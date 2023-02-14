@@ -1,4 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/86491
+
 function solution(sizes) {
     var biggerSideMax = [];   // [[a, b], ...] 중 큰 값을 담을 변수를 만든다.
     var smallerSideMax = [];   // [[a, b], ...] 중 작은 값을 담을 변수를 만든다.
