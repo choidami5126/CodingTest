@@ -10,4 +10,4 @@ function solution(strings, n) {  // 'solution' 함수를 정의한다. 이 함�
         else return a > b ? 1 : -1; //  남은 경우의 수가 a[n] == b[n] 뿐이기에 전체 코드를 사전순으로 정렬한다.
         // a = 'abce' b = 'abcd' 일 경우 a의 마지막자 'e'가 b의 마지막자 'd' 보다 크기 때문에 1을 반환하여 두 원소는 순서를 바꾼다. 
     })
- }
+ } 
